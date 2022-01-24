@@ -1,0 +1,7 @@
+E:\LearnC#\New2\New2\bin\Debug\New2.exe.config
+E:\LearnC#\New2\New2\bin\Debug\New2.exe
+E:\LearnC#\New2\New2\bin\Debug\New2.pdb
+E:\LearnC#\New2\New2\obj\Debug\New2.csprojAssemblyReference.cache
+E:\LearnC#\New2\New2\obj\Debug\New2.csproj.CoreCompileInputs.cache
+E:\LearnC#\New2\New2\obj\Debug\New2.exe
+E:\LearnC#\New2\New2\obj\Debug\New2.pdb

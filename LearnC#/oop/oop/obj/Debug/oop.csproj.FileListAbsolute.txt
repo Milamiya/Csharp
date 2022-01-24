@@ -1,0 +1,7 @@
+E:\LearnC#\oop\oop\obj\Debug\oop.csprojAssemblyReference.cache
+E:\LearnC#\oop\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+E:\LearnC#\oop\oop\bin\Debug\oop.exe.config
+E:\LearnC#\oop\oop\bin\Debug\oop.exe
+E:\LearnC#\oop\oop\bin\Debug\oop.pdb
+E:\LearnC#\oop\oop\obj\Debug\oop.exe
+E:\LearnC#\oop\oop\obj\Debug\oop.pdb

@@ -1,0 +1,7 @@
+E:\LearnC#\String\String\bin\Debug\String.exe.config
+E:\LearnC#\String\String\bin\Debug\String.exe
+E:\LearnC#\String\String\bin\Debug\String.pdb
+E:\LearnC#\String\String\obj\Debug\String.csprojAssemblyReference.cache
+E:\LearnC#\String\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+E:\LearnC#\String\String\obj\Debug\String.exe
+E:\LearnC#\String\String\obj\Debug\String.pdb

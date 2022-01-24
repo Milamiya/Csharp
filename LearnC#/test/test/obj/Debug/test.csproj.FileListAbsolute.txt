@@ -1,0 +1,6 @@
+E:\LearnC#\test\test\bin\Debug\test.exe.config
+E:\LearnC#\test\test\bin\Debug\test.exe
+E:\LearnC#\test\test\bin\Debug\test.pdb
+E:\LearnC#\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\LearnC#\test\test\obj\Debug\test.exe
+E:\LearnC#\test\test\obj\Debug\test.pdb

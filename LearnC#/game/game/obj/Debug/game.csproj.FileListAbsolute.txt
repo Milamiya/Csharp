@@ -1,0 +1,7 @@
+E:\LearnC#\game\game\bin\Debug\game.exe.config
+E:\LearnC#\game\game\bin\Debug\game.exe
+E:\LearnC#\game\game\bin\Debug\game.pdb
+E:\LearnC#\game\game\obj\Debug\game.csprojAssemblyReference.cache
+E:\LearnC#\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+E:\LearnC#\game\game\obj\Debug\game.exe
+E:\LearnC#\game\game\obj\Debug\game.pdb

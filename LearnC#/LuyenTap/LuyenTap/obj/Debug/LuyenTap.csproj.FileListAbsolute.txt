@@ -1,0 +1,7 @@
+E:\LearnC#\LuyenTap\LuyenTap\bin\Debug\LuyenTap.exe.config
+E:\LearnC#\LuyenTap\LuyenTap\bin\Debug\LuyenTap.exe
+E:\LearnC#\LuyenTap\LuyenTap\bin\Debug\LuyenTap.pdb
+E:\LearnC#\LuyenTap\LuyenTap\obj\Debug\LuyenTap.csprojAssemblyReference.cache
+E:\LearnC#\LuyenTap\LuyenTap\obj\Debug\LuyenTap.csproj.CoreCompileInputs.cache
+E:\LearnC#\LuyenTap\LuyenTap\obj\Debug\LuyenTap.exe
+E:\LearnC#\LuyenTap\LuyenTap\obj\Debug\LuyenTap.pdb

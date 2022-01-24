@@ -1,0 +1,7 @@
+C:\Users\minht\OneDrive\Desktop\New1\New1\obj\Debug\New1.csprojAssemblyReference.cache
+C:\Users\minht\OneDrive\Desktop\New1\New1\obj\Debug\New1.csproj.CoreCompileInputs.cache
+C:\Users\minht\OneDrive\Desktop\New1\New1\bin\Debug\New1.exe.config
+C:\Users\minht\OneDrive\Desktop\New1\New1\bin\Debug\New1.exe
+C:\Users\minht\OneDrive\Desktop\New1\New1\bin\Debug\New1.pdb
+C:\Users\minht\OneDrive\Desktop\New1\New1\obj\Debug\New1.exe
+C:\Users\minht\OneDrive\Desktop\New1\New1\obj\Debug\New1.pdb

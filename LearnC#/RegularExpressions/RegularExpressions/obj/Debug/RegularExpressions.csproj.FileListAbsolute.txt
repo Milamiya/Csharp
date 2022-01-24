@@ -1,0 +1,7 @@
+E:\LearnC#\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+E:\LearnC#\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe
+E:\LearnC#\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.pdb
+E:\LearnC#\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csprojAssemblyReference.cache
+E:\LearnC#\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csproj.CoreCompileInputs.cache
+E:\LearnC#\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.exe
+E:\LearnC#\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.pdb
